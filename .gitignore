@@ -199,6 +199,9 @@ $RECYCLE.BIN/
 **/node_modules/*
 **/wwwroot/*
 
+# mongodb credentials
+variables.env
+
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
